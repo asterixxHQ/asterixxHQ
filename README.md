@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm a 2nd year CSE student who is fueled by coffee and loves art ♡
 
-- Focused on **Frontend Development, UI/UX Design, and Cybersecurity** ⌯⌲
-- Current Tech Stack: Python, C++, and learning HTML & C ⊹.˚₊
+- Exploring Frontend Development, UI/UX, and Cybersecurity ⌯⌲
+- Current Tech Stack: Python, C++, and learning HTML & C  ⊹.˚₊
 
 ### Featured Project: Rainbow Flower (๑•ᴗ•๑)
 <table>
