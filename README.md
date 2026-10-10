@@ -7,17 +7,12 @@
 <table>
   <tr>
     <td width="55%">
-      <pre>
-⠀⠀⠀⠀⠀⠀⠀         ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀
-⠀⠀⠀        ⠀⢀⡴⣆⠀⠀⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⣼⣿⡗⠀⠀⠀⠀
-⠀⠀⠀        ⣠⠟⠀⠘⠷⠶⠶⠶⠾⠉⢳⡄⠀⠀⠀⠀⠀⣧⣿⠀⠀⠀⠀⠀
-⠀         ⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⢻⣤⣤⣤⣤⣤⣿⢿⣄⠀⠀⠀⠀
-⠀        ⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣧⠀⠀⠀⠀⠀ ⠀⠙⣷⡴⠶⣦
-        ⠀⠀⢱⡀⠀⠉⠉⠀⠀⠀⠀⠛⠃⠀⢠⡟⠀⠀⠀⢀⣀⣠⣤⠿⠞⠛⠋
-        ⣠⠾⠋⠙⣶⣤⣤⣤⣤⣤⣀⣠⣤⣾⣿⠴⠶⠚⠋⠉⠁⠀⠀⠀ ⠀⠀⠀
-       ⠛⠒⠛⠉⠉⠀⠀⠀⣴⠟⢃⡴⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀       ⠀⠀⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-      </pre>
+      ┊         ┊        ┊      ┊      ┊   .  ˚
+      ┊         ┊        ┊      ┊     ˚★⋆
+      ┊         ┊        ┊      ⋆
+      ┊         ┊        ★⋆
+      ┊ ◦       ┊ 
+      ★        ˚★      
       <ul>
         <li><strong>What it is:</strong> A generative Python script using Matplotlib and LineCollections to render a blooming geometric flower.</li>
         <li><strong>Tech & Tools:</strong> Python, NumPy, Matplotlib (with PillowWriter).</li>
