@@ -21,9 +21,9 @@
       </pre>
       <div align="left">
       <ul>
-        <li><strong>What it is:</strong> A generative Python script using Matplotlib and LineCollections to render a blooming geometric flower.</li>
-        <li><strong>Tech & Tools:</strong> Python, NumPy, Matplotlib (with PillowWriter).</li>
-        <li><strong>Code:</strong> Check out <a href="rainbow_flower.py"><code>rainbow_flower.py</code></a> in this repo.</li>
+        <li><strong>What it is:</strong> A generative Python script using Matplotlib and LineCollections to render a blooming geometric flower</li>
+        <li><strong>Tech & Tools:</strong> Python & Matplotlib (with PillowWriter)</li>
+        <li><strong>Code:</strong> Check out <a href="rainbow_flower.py"><code>rainbow_flower.py</code></a> in this repo</li>
       </ul>
     </td>
     <td width="45%" align="center">
