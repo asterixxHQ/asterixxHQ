@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="rainbow_flower_final.gif" width="100%" alt="Rainbow Flower Animation" style="border-radius: 12px;">
+      <img src="rainbowflower_py.gif" width="100%" alt="Rainbow Flower Animation" style="border-radius: 12px;">
     </td>
   </tr>
 </table>
